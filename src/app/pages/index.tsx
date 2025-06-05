@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Flashcards from '../app/components/Flashcards'
+import Flashcards from '../components/Flashcards'
 
 export default function Home() {
   return (
