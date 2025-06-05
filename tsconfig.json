@@ -27,14 +27,6 @@
         "./src/*"
       ]
     },
-    "types": [
-      "node",
-      "jest",
-      "@testing-library/jest-dom"
-    ],
-  },
-  "moduleNameMapper": {
-    "^@/(.*)$": "<rootDir>/src/$1" // Adjust based on your project structure
   },
   "include": [
     "next-env.d.ts",
